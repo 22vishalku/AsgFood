@@ -16,7 +16,7 @@ function Loader() {
 
   return (
     <div className={styles.loader}>
-      <img src='C:\Users\vishal kumar\AsgFoodByte\src\components\loader.gif' alt='loader' /> 
+      <img src='src\components\loader.gif' alt='loader' /> 
     </div>
   );
 }
