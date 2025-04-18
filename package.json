@@ -3,7 +3,7 @@
    "private": true,
    "version": "0.0.0",
    "type": "module",
-   "homepage": "https://vishalkumar06222003.github.io/AsgFoodByte/"
+   "homepage": "https://asg-food-2u12zrzrs-22vishalkus-projects.vercel.app/"
 ,
    "scripts": {
       "predeploy": "npm run build",
