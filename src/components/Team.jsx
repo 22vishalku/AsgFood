@@ -28,7 +28,7 @@ const Team = () => {
                         backgroundRepeat: "no-repeat",
                      }}>
                      <img
-                        src="src\components\1732127752348.jpg"
+                        src="https://photos.fife.usercontent.google.com/pw/AP1GczP5imt0JTLdENks88prJM1jhp7MCw0FZn_vKyLKYnblQVkfC6_H7mu9=w685-h913-s-no-gm?authuser=0"
                         alt=""
                         className="z-0 h-full w-full rounded-[10px] object-cover"
                      />

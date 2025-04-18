@@ -8,15 +8,18 @@ function Loader() {
       document
         .querySelector(`.${styles.loader}`)
         .classList.add(styles['fade-out']);
-    }, 4000);
+    }, 4500);
 
-    
     return () => clearTimeout(timer);
   }, []);
 
   return (
     <div className={styles.loader}>
-      <img src='src\components\loader.gif' alt='loader' /> 
+      {/* Use the preferred image source here */}
+      <img 
+        src="https://i.pinimg.com/originals/f9/98/0f/f9980fdb73ff0acc69d70a8997acb5fa.gif" 
+        alt="loading animation"
+      />
     </div>
   );
 }

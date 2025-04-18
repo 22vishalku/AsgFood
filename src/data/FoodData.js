@@ -10,7 +10,7 @@ const FoodData = [
    },
    {
       id: 2,
-      img: "https://tmkbalaghat.com/wp-content/uploads/2022/01/Veg-Roll-thegem-blog-timeline-large.jpg",
+      img: "https://c.ndtvimg.com/2024-02/bbvgfbmg_kathi-rolls_625x300_12_February_24.jpg",
       name: "Veg Roll",
       price: 50,
       desc: "A classic Italian pizza topped with fresh tomatoes, mozzarella cheese, basil leaves, and a drizzle of olive oil. Simple yet bursting with flavors, this Margherita Pizza is a timeless favorite that captures the essence of Italian cuisine.",
