@@ -14,13 +14,11 @@ function Loader() {
   }, []);
 
   return (
-    <div className={styles.loader}>
-      {/* Use the preferred image source here */}
-      <img 
-        src="https://i.pinimg.com/originals/f9/98/0f/f9980fdb73ff0acc69d70a8997acb5fa.gif" 
-        alt="loading animation"
-      />
-    </div>
+<div className={styles.loader}>
+  <img src='https://i.pinimg.com/originals/f9/98/0f/f9980fdb73ff0acc69d70a8997acb5fa.gif' alt='loader' />
+  <img src='https://i.pinimg.com/originals/3f/ef/41/3fef41cdcef58e33f81f60c2b7a791e1.gif' alt='loader' />
+</div>
+
   );
 }
 
