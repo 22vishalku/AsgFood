@@ -3,7 +3,8 @@
    "private": true,
    "version": "0.0.0",
    "type": "module",
-   "homepage": "https://<your-username>.github.io/<your-repo-name>/",
+   "homepage": "https://vishalkumar06222003.github.io/AsgFoodByte/"
+,
    "scripts": {
       "predeploy": "npm run build",
       "deploy": "gh-pages -d dist",
